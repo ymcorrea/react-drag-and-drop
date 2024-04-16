@@ -7,7 +7,7 @@ function App() {
       <h2 className="heading">Select Image:</h2>
       <div className="image-area">
         <ImageContainer />
-      </div>
+      </div> 
     </div>
   );
 }

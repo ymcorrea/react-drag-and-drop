@@ -10,7 +10,7 @@ const ImageContainer = () => {
     };
 
     return (
-        <div className="image-container">
+        <div className="image-container"> 
             {
                 url ?
                     <img
